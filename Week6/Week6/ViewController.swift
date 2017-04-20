@@ -1,6 +1,7 @@
 //
 //  ViewController.swift
 //  Week6
+// project 2
 //
 //  Created by JOSHUA SETH PUJOL on 20/04/2017.
 //  Copyright © 2017 JOSHUA SETH PUJOL. All rights reserved.
